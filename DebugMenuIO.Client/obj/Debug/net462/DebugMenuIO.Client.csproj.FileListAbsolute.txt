@@ -1,0 +1,5 @@
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net462/DebugMenuIO.Client.csproj.AssemblyReference.cache
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net462/DebugMenuIO.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net462/DebugMenuIO.Client.AssemblyInfoInputs.cache
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net462/DebugMenuIO.Client.AssemblyInfo.cs
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net462/DebugMenuIO.Client.csproj.CoreCompileInputs.cache

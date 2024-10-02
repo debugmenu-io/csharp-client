@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = DebugMenuIO.Client
+build_property.ProjectDir = /Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

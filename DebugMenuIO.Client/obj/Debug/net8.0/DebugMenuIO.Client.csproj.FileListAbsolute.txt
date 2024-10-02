@@ -1,0 +1,12 @@
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net8.0/DebugMenuIO.Client.csproj.AssemblyReference.cache
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net8.0/DebugMenuIO.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net8.0/DebugMenuIO.Client.AssemblyInfoInputs.cache
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net8.0/DebugMenuIO.Client.AssemblyInfo.cs
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net8.0/DebugMenuIO.Client.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/bin/Debug/net8.0/DebugMenuIO.Client.deps.json
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/bin/Debug/net8.0/DebugMenuIO.Client.dll
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/bin/Debug/net8.0/DebugMenuIO.Client.pdb
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net8.0/DebugMenuIO.Client.dll
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net8.0/refint/DebugMenuIO.Client.dll
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net8.0/DebugMenuIO.Client.pdb
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net8.0/ref/DebugMenuIO.Client.dll

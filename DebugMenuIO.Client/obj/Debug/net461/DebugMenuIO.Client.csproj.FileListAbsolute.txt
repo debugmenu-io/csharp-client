@@ -1,0 +1,11 @@
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net461/DebugMenuIO.Client.csproj.AssemblyReference.cache
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net461/DebugMenuIO.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net461/DebugMenuIO.Client.AssemblyInfoInputs.cache
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net461/DebugMenuIO.Client.AssemblyInfo.cs
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net461/DebugMenuIO.Client.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/bin/Debug/net461/DebugMenuIO.Client.dll
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/bin/Debug/net461/DebugMenuIO.Client.pdb
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/bin/Debug/net461/Newtonsoft.Json.dll
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net461/DebugMenuIO.Client.csproj.CopyComplete
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net461/DebugMenuIO.Client.dll
+/Users/daniel/Projects/debugmenuio/csharp-client/DebugMenuIO.Client/obj/Debug/net461/DebugMenuIO.Client.pdb
